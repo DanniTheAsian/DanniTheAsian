@@ -3,7 +3,7 @@
 <p align="left">
 </p>
 
-- 🌱 I’m currently learning **Python & R**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I'm Asian**
 
